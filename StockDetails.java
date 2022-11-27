@@ -29,4 +29,13 @@ public class StockDetails {
         this.numShares = numShares;
 
     }
+    public int getTotalValue() {
+        return totalValue;
+    }
+
+    public void setTotalValue(int totalValue) {
+
+        this.totalValue = totalValue;
+
+    }
 }
