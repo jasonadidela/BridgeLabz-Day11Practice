@@ -2,6 +2,8 @@ public class StockDetails {
     private String stockName;
     private int sharesPrice;
     private int numShares;
+    private int totalValue;
+
     public String getStockName() {
         return stockName;
     }
